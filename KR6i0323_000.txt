@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方等如來藏經
+#+DATE: 2015-08-30 20:16:19.619380
+#+PROPERTY: JUAN 0
